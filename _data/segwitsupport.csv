@@ -56,6 +56,7 @@ Fairlay,https://fairlay.com/,yes,no,Bitcoin Prediction Market,
 Gatecoin,https://gatecoin.com/,yes,yes,exchange,"bitcoin core, nbitcoin"
 GreenAddress<sup>2</sup>,https://greenaddress.it/,yes,yes,wallet,"pycoin, bitcoinjs"
 GreenBits,https://www.greenbits.com/,yes,yes,wallet,bitcoinj
+Indospace.io, https://www.indospace.io/,yes,yes	exchange, bitcoin core
 JoinMarket,https://github.com/JoinMarket-Org/joinmarket,yes,wip,"library, privacy solution, wallet",
 Kaiko,https://www.kaiko.com/,yes,no,explorer,
 Keepkey,https://www.keepkey.com/,yes,yes,hardware wallet,
